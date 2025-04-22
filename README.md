@@ -25,5 +25,5 @@ A summary of key findings and strategic recommendations is available in the PDF 
 - Enhance user engagement with personalized insights through the mobile app.
 
 ## 👤 About Me  
-Aspiring data analyst with a strong foundation in analytics tools and 5+ years of experience in the ICT service industry. Passionate about uncovering insights from real-world data.  
+Aspiring data analyst with a strong foundation in analytics tools and 7+ years of experience in the ICT service industry. Passionate about uncovering insights from real-world data.  
 [Portfolio](https://www.datascienceportfol.io/yahorkudlasevich) | [LinkedIn](https://linkedin.com/in/yahor-kudlasevich/)
